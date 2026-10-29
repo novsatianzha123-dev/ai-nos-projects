@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+dataset/processed/sensor_readings.csv

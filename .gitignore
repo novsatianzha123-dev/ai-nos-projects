@@ -1,0 +1,10 @@
+**/.venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+**/.streamlit/secrets.toml
+**/tmp/
+*.log
